@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Don't ask me right now still a naive**
 
+- 🕵️‍♂️ I'm currently for **Internship for Front-End Developer Role**
+
 - 📫 How to reach me **just knock on this door :- mondheajinkya5@gmail.com**
 
 - ⚡ Fun fact **I'm a coder and I do gym regularly.**
