@@ -1,3 +1,4 @@
+[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://AjinkyaMondhe.io)
 <h1 align="center">Hi 👋, I'm Ajinkya Mondhe</h1>
 <h2 align="center">A lostboy journey trying to explore in the web development jungle.</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,7 +7,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyamondhe" alt="ajinkyamondhe" /></a> </p>
-<img align ="right" alt = "Coding" widht="100" height="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align ="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
